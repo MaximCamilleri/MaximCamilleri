@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
-<!--
-**MaximCamilleri/MaximCamilleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student currently following a course in artificial intelligence at the university of malta. 
 
-Here are some ideas to get you started:
+Feel free to look at some of my projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also contact me by [email](mailto:max.camilleri.20@um.edu.mt?subject=GitHub) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaximCamilleri&show_icons=true&theme=gruvbox)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximCamilleri&layout=compact&theme=gruvbox)
+
